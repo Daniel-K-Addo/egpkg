@@ -20,5 +20,5 @@ Ps matching from Rcpp
 \examples{
 set.seed(1231)
 x <- cbind(runif(5))
-ps_match3(x)
+ps_match(x)
 }

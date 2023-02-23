@@ -6,7 +6,7 @@
 #' @examples
 #' set.seed(1231)
 #' x <- cbind(runif(5))
-#' ps_match3(x)
+#' ps_match(x)
 #' @param
 #' x - A vector to be used for the matching
 #' @export
