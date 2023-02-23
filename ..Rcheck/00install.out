@@ -1,6 +1,0 @@
-* installing *source* package 'egpkg' ...
-** using staged installation
-** libs
-Warning in system(cmd) : 'make' not found
-ERROR: compilation failed for package 'egpkg'
-* removing 'C:/Users/danie/ONEDRI~3/ACADEM~1/202301~1/ADVANC~1/egpkg/RCHECK~1/egpkg'
